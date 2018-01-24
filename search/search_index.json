@@ -2,7 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "\u672c\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\u3001SkyWay JavaScript SDK\u306eAPI\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u3067\u3059\u3002\u65e5\u672c\u8a9e\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\n\u3053\u3061\u3089\n\u304b\u3089\u3002\nSkyWay\u3092\u4f7f\u3063\u305f\u958b\u767a\u304c\u521d\u3081\u3066\u306e\u5834\u5408\u306f\u3001SkyWay\u306e\n\u901a\u4fe1\u30e2\u30c7\u30eb\n\u3092\u5148\u306b\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\n\n\nThis document is ECLWebRTC JavaScript SDK API Reference. See English version from \nhere\n.\nSee \nCommunication model of ECLWebRTC\n if this is the first time for you to develop applciation with ECLWebRTC.",
+            "text": "\u65e5\u672c\u8a9e\u30b5\u30a4\u30c8\u306f\n\u3053\u3061\u3089\n\n\nEnglish site is \nhere",
+            "title": "Home"
+        },
+        {
+            "location": "/ja/",
+            "text": "\u672c\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\u3001SkyWay JavaScript SDK\u306eAPI\u30ea\u30d5\u30a1\u30ec\u30f3\u30b9\u3067\u3059\u3002\u65e5\u672c\u8a9e\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\n\u3053\u3061\u3089\n\u304b\u3089\u3002\nSkyWay\u3092\u4f7f\u3063\u305f\u958b\u767a\u304c\u521d\u3081\u3066\u306e\u5834\u5408\u306f\u3001SkyWay\u306e\n\u901a\u4fe1\u30e2\u30c7\u30eb\n\u3092\u5148\u306b\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044\u3002\n\n\n\u3053\u308c\u306f\u9593\u9055\u3063\u305f\u6587\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
             "title": "Introduction"
         },
         {
@@ -774,6 +779,11 @@
             "location": "/ja/sfuroom/#sample_5",
             "text": "sfuRoom . on ( 'removeStream' ,   stream   =>   { \n   // \u524a\u9664\u3055\u308c\u305f\u30b9\u30c8\u30ea\u30fc\u30e0\u3092\u6301\u3064PeerID\u3092\u53d6\u5f97 \n   const   peerId   =   stream . peerId ;  }",
             "title": "Sample"
+        },
+        {
+            "location": "/en/",
+            "text": "This document is ECLWebRTC JavaScript SDK API Reference. See English version from \nhere\n.\nSee \nCommunication model of ECLWebRTC\n if this is the first time for you to develop applciation with ECLWebRTC.",
+            "title": "Introduction"
         },
         {
             "location": "/en/peer/",
